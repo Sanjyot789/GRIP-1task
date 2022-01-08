@@ -1,7 +1,7 @@
 # GRIP-1task
 Task 1 of Sparks Foundation GRIP Task
 
-Prediction of percentage of an student based on the no. of study hour.
+Prediction of percentage of a student based on the no. of study hour.
 This is a Simple Linear Regression Problem.
 Data is given in csv file with 2 columns.
 
